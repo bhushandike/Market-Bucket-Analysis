@@ -2,8 +2,7 @@
 
 A data mining project that applies the **Apriori algorithm** to retail transaction data to discover co-purchase patterns and generate actionable association rules. Built with a **Python backend** and a **React.js interactive dashboard**.
 
-**🎓 Big Data Analytics Lab (CSL7012) Mini Project**  
-Department of Computer Engineering, A. P. Shah Institute of Technology, University of Mumbai (2025–26)
+
 
 ---
 
@@ -19,7 +18,7 @@ Department of Computer Engineering, A. P. Shah Institute of Technology, Universi
 - [Results](#-results)
 - [Future Scope](#-future-scope)
 - [References](#-references)
-- [Team](#-team)
+
 
 ---
 
@@ -249,15 +248,9 @@ Step 6: Evaluate Rules
 
 ---
 
-## 👥 Team
 
-| Name | Roll No. |
-|------|----------|
-| Utkarsh Jawale | 22102161 |
-| Bhushan Dike | 22102157 |
 
-**Guide:** Prof. Deepali Kayande  
-**Institution:** A. P. Shah Institute of Technology, Thane — University of Mumbai
+
 
 ---
 
